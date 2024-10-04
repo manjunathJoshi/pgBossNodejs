@@ -2,8 +2,6 @@
 
 [[![Node JS](https://img.shields.io/badge/Node.js-16.5.0-green.svg?logo=Node.Js)](https://nodejs.org/)]
 
-[![Run In Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/17325677-048119cb-699d-47f7-9a52-7efbd4a79ba5?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D17325677-048119cb-699d-47f7-9a52-7efbd4a79ba5%26entityType%3Dcollection%26workspaceId%3D0af06d8c-bcf3-44c6-b00f-01597dbdd242)
-
 ### Table of Contents
 
 - [Description](#description)
