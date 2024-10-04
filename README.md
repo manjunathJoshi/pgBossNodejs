@@ -34,7 +34,7 @@ $ npm install
     ```
 
 
-### Docker Support
+### Docker
 
 This project uses docker compose to spinup the docker container to use locally.
 
